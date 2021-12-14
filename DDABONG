@@ -15,7 +15,8 @@ dimwishlist:item=235827225&perks=2846385770,438098033
 dimwishlist:item=235827225&perks=2846385770,588594999
 dimwishlist:item=235827225&perks=2846385770,1015611457
 
-#되짚은 길
+//되짚은 길
+//notes:
 dimwishlist:item=548958835&perks=3700496672,4049631843
 dimwishlist:item=548958835&perks=1820235745,4049631843
 dimwishlist:item=548958835&perks=2779035018,4049631843
@@ -83,16 +84,19 @@ dimwishlist:item=2708806099&perks=1428297954,699525795
 dimwishlist:item=2708806099&perks=957782887,699525795
 
 
-#절반의 진실
+//절반의 진실
+//notes:열정의 칼날을 제외하면 가치없음
 dimwishlist:item=3257091166&perks=2077819806
 
-#나머지 절반
+//나머지 절반
+//notes:열정+치무 달리는 개꿀잼무기  열정or집칼+회칼or치무 가능
 dimwishlist:item=3257091167&perks=1749209109,3913600130
 dimwishlist:item=3257091167&perks=1749209109,1546637391
 dimwishlist:item=3257091167&perks=2077819806,3913600130
 dimwishlist:item=3257091167&perks=2077819806,1546637391
 
-#너른 양해
+//너른 양해
+//notes:실명or쐐기or근접 필수. 합주로 재장전100 or 자동 장전 or 야심찬 암살가로 2발장전  취향대로 고르자
 dimwishlist:item=3849810018&perks=3032599245,2010801679,11612903
 dimwishlist:item=3849810018&perks=409831596,2010801679,11612903
 dimwishlist:item=3849810018&perks=3301904089,2010801679,11612903
@@ -130,7 +134,8 @@ dimwishlist:item=3849810018&perks=3032599245,1428297954,1546637391
 dimwishlist:item=3849810018&perks=409831596,1428297954,1546637391
 dimwishlist:item=3849810018&perks=3301904089,1428297954,1546637391
 
-#1000 야드 시선
+//1000 야드 시선
+//notes:빠른 무장+스냅샷 조준경 가능한 pvp 갓 무기
 dimwishlist:item=4164201232&perks=1428297954,957782887
 dimwishlist:item=4164201232&perks=706527188,957782887
 dimwishlist:item=4164201232&perks=2866798147,957782887
