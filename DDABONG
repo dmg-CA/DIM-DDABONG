@@ -2153,6 +2153,11 @@ dimwishlist:item=2222560548&perks=1359896290,1890422124
 dimwishlist:item=2222560548&perks=1820235745,3523296417
 dimwishlist:item=3512349612&perks=2010801679
 
+
+//평정의 무효화
+//notes:벤시 퀘스트
+dimwishlist:item=1644680957
+
 //영혼을 갉아먹는 허기
 //notes:월드 드랍-
 dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926
@@ -3228,8 +3233,8 @@ dimwishlist:item=3335343363&perks=3096702027,2551157718
 dimwishlist:item=3335343363&perks=2551157718
 
 //회수자의 일제 사격
-dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
-dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+//notes:벤시 퀘스트
+dimwishlist:item=2060863616
 
 //불침번
 //notes:월드 드랍-
