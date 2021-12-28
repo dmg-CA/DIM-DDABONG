@@ -54,6 +54,7 @@ dimwishlist:item=2139640995&perks=2590710093,4049631843
 dimwishlist:item=2139640995&perks=3523296417,4049631843
 dimwishlist:item=2139640995&perks=3523296417,2396489472
 dimwishlist:item=2139640995&perks=3108830275,2396489472
+dimwishlist:item=2139640995&perks=3705817207,2396489472
 
 //투우사 64
 //notes:탐욕의 손아귀 1,2넴-
@@ -99,11 +100,13 @@ dimwishlist:item=2708806099&perks=1168162263,3511092054
 dimwishlist:item=3257091166&perks=2077819806
 
 //나머지 절반
-//notes:영원의 도전, 쥴 보물-열정+치무 달리는 개꿀잼무기  열정or집칼+회칼or치무 가능
+//notes:영원의 도전, 쥴 보물-열정+치무 달리는 개꿀잼무기  열정or집칼or결투자+회칼or치무 가능
 dimwishlist:item=3257091167&perks=1749209109,3913600130
 dimwishlist:item=3257091167&perks=1749209109,1546637391
 dimwishlist:item=3257091167&perks=2077819806,3913600130
 dimwishlist:item=3257091167&perks=2077819806,1546637391
+dimwishlist:item=3257091167&perks=3705817207,3913600130
+dimwishlist:item=3257091167&perks=3705817207,1546637391
 
 //너른 양해
 //notes:영원의 도전, 쥴 보물-실명or쐐기or근접 필수. 합주or자동장전or야심찬 암살가 취향대로 고르자
