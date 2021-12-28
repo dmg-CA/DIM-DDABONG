@@ -1,5 +1,5 @@
 //에야스 루나
-//notes:탐욕의 손아귀 3넴-
+//notes:탐욕의 손아귀 3넴-현재(12/28) pvp 오시리스의 시험에서 흰탄 킬량 1위를 달리는 무기
 dimwishlist:item=235827225&perks=247725512,1015611457
 dimwishlist:item=235827225&perks=1168162263,1015611457
 dimwishlist:item=235827225&perks=247725512,124408337
@@ -65,7 +65,7 @@ dimwishlist:item=2563012876&perks=1556840489,2679249093
 dimwishlist:item=2563012876&perks=1428297954,2679249093
 
 //bxr-55 투사
-//notes:영원의 도전, 쥴 보물-
+//notes:영원의 도전, 쥴 보물-28스코프 내장으로 기본 사거리 39m 파동소총
 dimwishlist:item=2708806099&perks=1168162263,2846385770
 dimwishlist:item=2708806099&perks=2450788523,2846385770
 dimwishlist:item=2708806099&perks=1428297954,2846385770
@@ -167,6 +167,7 @@ dimwishlist:item=4164201232&perks=280464955,957782887
 dimwishlist:item=4164201232&perks=957782887
 
 //산들바람
+//notes:여명 이벤트
 dimwishlist:item=3400256755&perks=2590710093,3650930298
 dimwishlist:item=3400256755&perks=2590710093,3913600130
 dimwishlist:item=3400256755&perks=1749209109,3913600130
@@ -527,7 +528,7 @@ dimwishlist:item=1337707096&perks=2621346526,438098033
 dimwishlist:item=1337707096&perks=2621346526,3523296417
 
 //리드의 후회
-//notes:오시리스의 시험
+//notes:오시리스의 시험-이온화 배터리+예비탄약+삼중사격을 이용해 한탄창으로 10발 발사 가능한 선융
 dimwishlist:item=1399243961&perks=3436462433,1771339417
 dimwishlist:item=1399243961&perks=2284787283,1771339417
 dimwishlist:item=1399243961&perks=3400784728,1771339417
@@ -591,7 +592,7 @@ dimwishlist:item=2434225986&perks=1645158859,957782887
 dimwishlist:item=2434225986&perks=1645158859,3108830275
 
 //즉결심판
-//notes:예언 2넴
+//notes:예언 2넴-
 dimwishlist:item=1626503676&perks=4267945040,1015611457
 dimwishlist:item=1626503676&perks=3436462433,1015611457
 dimwishlist:item=1626503676&perks=4071163871,1015611457
