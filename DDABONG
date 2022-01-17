@@ -2182,6 +2182,15 @@ dimwishlist:item=3512349612&perks=2010801679
 //notes:벤시 퀘스트
 dimwishlist:item=1644680957
 
+//따가운 바람
+//notes:바릭스 퀘-궁수의 움직임이 없기에 축적된 구원에 밀림
+dimwishlist:item=1621657423&perks=247725512,3365897133
+dimwishlist:item=1621657423&perks=706527188,3365897133
+dimwishlist:item=1621657423&perks=3436462433,3365897133
+dimwishlist:item=1621657423&perks=588594999,957782887
+dimwishlist:item=1621657423&perks=706527188,957782887
+dimwishlist:item=1621657423&perks=2450788523,957782887
+
 //영혼을 갉아먹는 허기
 //notes:월드 드랍-
 dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926
