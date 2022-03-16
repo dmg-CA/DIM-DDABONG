@@ -5352,7 +5352,7 @@ dimwishlist:item=3637570176&perks=2621346526,47981717
 dimwishlist:item=3637570176&perks=957782887
 
 //막힌 궁극성
-//notes:강철깃발-pve 좋음, pvp는 현재 보이는 저격중에 가장 배율이 높아 취향이 갈림
+//notes:강철깃발
 dimwishlist:item=852551895&perks=3300816228,1546637391
 dimwishlist:item=852551895&perks=957782887,1546637391
 dimwishlist:item=852551895&perks=3513791699,1546637391
@@ -5361,6 +5361,8 @@ dimwishlist:item=852551895&perks=3300816228,47981717
 dimwishlist:item=852551895&perks=957782887,47981717
 dimwishlist:item=852551895&perks=3513791699,47981717
 dimwishlist:item=852551895&perks=2866798147,47981717
+dimwishlist:item=852551895&perks=3300816228,1771339417
+dimwishlist:item=852551895&perks=3436462433,1771339417
 
 //빌린 시간
 //notes:겜빗 12x12퍽
